@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Singh
 - 👀 I’m interested in the sci-fi of life
-- 🌱 I’m currently learning C & Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
